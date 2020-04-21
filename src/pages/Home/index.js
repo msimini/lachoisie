@@ -37,6 +37,48 @@ class Home extends Component {
   <Col><strong>EM BREVE!</strong></Col>
   <Col><strong>EM BREVE!</strong></Col>
 </Row>
+<Row xs={1} md={2} lg={4}>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+</Row>
+<Row xs={1} md={2} lg={4}>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+</Row>
+<Row xs={1} md={2} lg={4}>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+</Row>
+<Row xs={1} md={2} lg={4}>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+</Row>
+<Row xs={1} md={2} lg={4}>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+</Row>
+<Row xs={1} md={2} lg={4}>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+</Row>
+<Row xs={1} md={2} lg={4}>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+  <Col><strong>EM BREVE!</strong></Col>
+</Row>
   
    </>);
   }
