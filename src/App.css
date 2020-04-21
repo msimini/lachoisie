@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+
+.navbar {
+  background-color: #f6d9d9;
+  font-family: 'Brush Script MT'; 
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+
+}
+
+.navbar-brand  {
+  font-size: 1.90rem !important;
+}
+
