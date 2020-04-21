@@ -31,55 +31,30 @@ class Home extends Component {
     </Card.Body>
   </Card>
   <br/>
-<Row xs={1} md={2} lg={4}>
+<Row xs={1} md={2} lg={3} className="d-flex justify-content-center">
+  <Col>
+  <Card>
+  <Card.Img variant="top" src={require('../Products/calca.jpg')} />
+  <Card.Body>
+    <Card.Title>Calça Jogger Verde Militar </Card.Title>
+    <Card.Text>
+    Calça em helanca. Modelo jogger, com elástico no cós, bolsos frontais funcionais, faixas na frente.
+    </Card.Text>
+    <Card.Link href="https://api.whatsapp.com/send?phone=5519984154123&text=Oii%20La%20Choisie,%20gostei%20da%20Calça%20Jogger%20Verde%20Militar" 
+        target="_blank">Gostei</Card.Link>
+  </Card.Body>
+</Card>
+</Col>
   <Col><strong>EM BREVE!</strong></Col>
   <Col><strong>EM BREVE!</strong></Col>
   <Col><strong>EM BREVE!</strong></Col>
   <Col><strong>EM BREVE!</strong></Col>
-</Row>
-<Row xs={1} md={2} lg={4}>
   <Col><strong>EM BREVE!</strong></Col>
   <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-</Row>
-<Row xs={1} md={2} lg={4}>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-</Row>
-<Row xs={1} md={2} lg={4}>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-</Row>
-<Row xs={1} md={2} lg={4}>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-</Row>
-<Row xs={1} md={2} lg={4}>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-</Row>
-<Row xs={1} md={2} lg={4}>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-</Row>
-<Row xs={1} md={2} lg={4}>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-  <Col><strong>EM BREVE!</strong></Col>
-</Row>
   
+</Row>
+
+
    </>);
   }
 }

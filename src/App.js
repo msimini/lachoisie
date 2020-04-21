@@ -21,7 +21,7 @@ function App() {
         </Navbar.Brand>
     </Navbar>
       <Container>
-        <Row>
+        <Row className="justify-content-md-center">
           <Col><Routes /></Col>
         </Row>
       </Container>
