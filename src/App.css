@@ -40,10 +40,9 @@
 
 .navbar {
   background-color: #f6d9d9;
-  font-family: 'Brush Script MT'; 
+  font-family: "Brush Script MT", cursive; 
   padding-top: 0 !important;
   padding-bottom: 0 !important;
-
 }
 
 .navbar-brand  {

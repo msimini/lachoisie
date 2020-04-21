@@ -8,7 +8,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    <Navbar variant="light">
+    <Navbar variant="light" sticky="top">
         <Navbar.Brand href="#home">
           <img
             alt=""
