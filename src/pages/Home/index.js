@@ -17,7 +17,7 @@ class Home extends Component {
     return (
       <>
       <Card>
-    <Card.Img variant="top" src={facebookcover} />
+    <Card.Img variant="top" src={"https://scontent.fcpq14-1.fna.fbcdn.net/v/t1.0-9/94118887_103605674665714_304564819678199808_n.png?_nc_cat=109&_nc_sid=dd9801&_nc_eui2=AeExEsoB1DqqVj2zVL3VxXod5CdsUTpcu5XkJ2xROly7lfNyG7sRFwzEbCP9mXYNpxpL81S9KN8aewFTdEzaug5s&_nc_ohc=KqZrJtgHUMIAX9LiksG&_nc_ht=scontent.fcpq14-1.fna&oh=96c5a1fae976070342c7d7da1a07ced5&oe=5EC7BDCB"} />
     <Card.Body>
       <Card.Text>
         <strong>Bem vinda</strong> a nossa vitrine virtual: <br/>
@@ -34,7 +34,7 @@ class Home extends Component {
 <Row xs={1} md={2} lg={3} className="d-flex justify-content-center">
   <Col>
   <Card>
-  <Card.Img variant="top" src={require('../Products/calca.jpg')} />
+  <Card.Img variant="top" src={"https://cdn1.loghaus.com.br/imagens01/foto/moda-feminina/calca-comfort/calca-jogger-verde-militar-com-faixa-na-frente_323895_600_1.jpg"} />
   <Card.Body>
     <Card.Title>Calça Jogger Verde Militar </Card.Title>
     <Card.Text>
