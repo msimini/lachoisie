@@ -12,3 +12,8 @@
 #icon-whatsapp {
   color: #006600
 }
+
+#banner-top{
+  max-height: 300px;
+  max-width: 1200px;
+}
