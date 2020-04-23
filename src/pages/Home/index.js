@@ -62,6 +62,14 @@ class Home extends Component {
         elogio: "Fale Conosco",
     codigo: 3122524
       },
+      {
+        foto_url: "https://cdn1.loghaus.com.br/imagens01/foto/moda-feminina/blusa-manga-curta/blusa-com-alcas-para-amarrar-geometrico-verde_316246_600_1.jpg",
+        texto_whatsapp: "Blusa%20Geométrica%20Verde",
+        titulo: "Blusa Geométrica Verde",
+        descrição: "Blusa em malha de viscose com elastano. Modelo ciganinha com alças em cadarço para amrração, elástico no decote e mangas amplas.",
+        elogio: "Fale Conosco",
+    codigo: 3162460
+      },
     {
         foto_url: "https://cdn1.loghaus.com.br/imagens01/foto/moda-feminina/saia-midi/saia-midi-preta-com-recorte-frontal_316268_600_1.jpg",
         texto_whatsapp: "Saia%20Midi%20Preta%20Com%20Recorte%20Frontal",
@@ -69,14 +77,6 @@ class Home extends Component {
         descrição: "Saia em malha de viscose com elastano. Modelo com elástico no cós, frente transpassada, recorte na barra formando franzido e tira para amarrar na lateral. Comprimento midi. Cintura: alta.",
         elogio: "Fale Conosco",
     codigo: 3162682
-      },
-    {
-        foto_url: "https://cdn1.loghaus.com.br/imagens01/foto/moda-feminina/blusa-manga-curta/blusa-com-alcas-para-amarrar-geometrico-verde_316246_600_1.jpg",
-        texto_whatsapp: "Blusa%20Geométrica%20Verde",
-        titulo: "BlusaGeométricaVerde",
-        descrição: "Blusa em malha de viscose com elastano. Modelo ciganinha com alças em cadarço para amrração, elástico no decote e mangas amplas.",
-        elogio: "Fale Conosco",
-    codigo: 3162460
       },
     {
         foto_url: "https://ph-cdn3.ecosweb.com.br/imagens01/foto/moda-feminina/jaqueta/jaqueta-bomber-preta-e-floral_228577_1000_4.jpg",
@@ -95,20 +95,20 @@ class Home extends Component {
     codigo: 3204264 
       },
     {
-        foto_url: "https://cdn1.loghaus.com.br/imagens01/foto/moda-feminina/pantacourt/calca-preta-cobra_320615_600_1.jpg",
-        texto_whatsapp: "Pantacourt%20Preta%20Cobra",
-        titulo: "Pantacourt Preta Cobra",
-        descrição: "Calça em malha de moletinho de algodão com poliéster. Cintura com elástico e punhos na barra. Detalhe em tecido metalizado nas laterais.",
-        elogio: "Fale Conosco",
-    codigo: 3206150
-      },
-    {
         foto_url: "https://cdn1.loghaus.com.br/imagens01/foto/moda-feminina/blusa-manga-curta/blusa-preto-cobra_320616_600_1.jpg",
         texto_whatsapp: "Blusa%20Preta%20Cobra",
         titulo: "Blusa Preta Cobra",
         descrição: "Blusa em malha de moletinho de algodão com poliester. Modelo t-shirt, manga curta, gola e punhos molde, frente com detalhe estampado e friso metalizado.",
         elogio: "Fale Conosco",
     codigo: 3206166
+      },
+      {
+        foto_url: "https://cdn1.loghaus.com.br/imagens01/foto/moda-feminina/pantacourt/calca-preta-cobra_320615_600_1.jpg",
+        texto_whatsapp: "Pantacourt%20Preta%20Cobra",
+        titulo: "Pantacourt Preta Cobra",
+        descrição: "Calça em malha de moletinho de algodão com poliéster. Cintura com elástico e punhos na barra. Detalhe em tecido metalizado nas laterais.",
+        elogio: "Fale Conosco",
+    codigo: 3206150
       },
     {
         foto_url: "https://cdn1.loghaus.com.br/imagens01/foto/moda-feminina/calca-pantalona/calca-pantalona-com-fendas-e-amarracao-marinho_307699_600_1.jpg",
