@@ -193,7 +193,7 @@ class Home extends Component {
 <Row xs={1} md={2} lg={3} className="d-flex justify-content-center">
   { roupas.map(item => 
   <Col className="pt-3">
-      <Card key={item.codigo} >
+      <Card key={item.codigo} className="w-100 h-100">
       <Card.Img variant="top" src={item.foto_url} />
       <Card.Body>
         <Card.Title>{item.titulo}</Card.Title>
