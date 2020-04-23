@@ -179,7 +179,7 @@ class Home extends Component {
     <Card.Body>
       <Card.Text>
         <p className="text-justify ">
-        <strong>Bem vinda</strong> a nossa vitrine virtual! <br/><br/>
+        <strong>Bem vinda</strong> à nossa vitrine virtual! <br/><br/>
         🖥️ Loja Online.<br/>
         💌 Enviamos para todo Brasil.<br/>
         📍 Sumaré/SP.<br/>
