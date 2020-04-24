@@ -127,14 +127,6 @@ class Home extends Component {
     codigo: 3229391
       },
     {
-        foto_url: "https://cdn1.loghaus.com.br/imagens01/foto/moda-feminina/blusa-de-alca/blusa-bata-com-alcas-finas-e-estampa-de-onca_319064_600_1.jpg",
-        texto_whatsapp: "Bata%20Estampada%20Onça",
-        titulo: "Bata Estampada Onça",
-        descrição: "Blusa, em helanca. Modelo com alças finas, estampa de onça.",
-        elogio: "Fale Conosco",
-    codigo: 3190640
-      },
-    {
         foto_url: "https://cdn1.loghaus.com.br/imagens01/foto/moda-feminina/casaquinho/casaco-chumbo-alongado-com-perolas-no-ombro_315375_600_1.jpg",
         texto_whatsapp: "Casaco%20Chumbo%20Alongado%20com%20Pérolas",
         titulo: "Casaco Chumbo Alongado com Pérolas",
